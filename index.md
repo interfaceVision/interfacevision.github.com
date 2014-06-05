@@ -58,11 +58,11 @@ theme:
     <p class="lead"><span class="muted">Collaboration</span> - Developers, designers, product owners, entrepreneurs and their customers can work together in a single development environment.</p>
     <p class="lead"><span class="muted">Learnability</span> - We remove as many abstract programming concepts as possible (functions, methods, inheritance, closures, etc.) leaving a minimal set of concepts for domain experts to learn.</p>
     <p class="lead"><span class="muted">Sharing</span> - Programs and their parts should be very easy to re-use and share.</p>
-    <p class="lead"><span class="muted">Scalability and concurrency</span> - Any program can run concurrently without little to no effort by the programmer. Scaling is done through concurrency.</p>
-    <p class="lead"><span class="muted">Assured backwards compatibility</span> - Any changes in the framework can be regression tested against all consumer created programs.</p>
+    <p class="lead"><span class="muted">Scalability and concurrency</span> - Any program can run concurrently with little to no effort by the programmer. Scaling is done through concurrency.</p>
+    <p class="lead"><span class="muted">Assured backwards compatibility</span> - Any changes in the framework can be regression tested against all customer created programs.</p>
     <p class="lead"><span class="muted">Immediate feedback</span> - The results of programming are seen immediately within the environment itself: no need to 'code, compile, run and debug'.</p>
     <p class="lead"><span class="muted">Regression testing</span> - Regression testing is an integral part of the development experience.</p>
-    <p class="lead"><span class="muted">separation of mechanisms from business</span> - Assure that programmers can't mix mechanisms and business behavior.</p>
+    <p class="lead"><span class="muted">Separation of mechanisms from business</span> - Assure that programmers can't mix mechanisms and business behavior.</p>
     <p class="lead"><span class="muted">Multiple mental-models</span> - Domain experts have different ways of seeing and understanding what it is they are trying to do. As such, the same program can be represented using different mental models.</p>
   </div>
 
