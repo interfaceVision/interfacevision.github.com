@@ -49,7 +49,7 @@ theme:
     <hr class="featurette-divider">
     <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/index/iPadMockupVision524x409.png">
     <h2 class="featurette-heading"><b><i>VISION</i> </b><span class="muted">A development environment for domain experts</span></h2>
-    <p class="lead"><b><i>VISION</i></b> is a visual programming environment designed for domain experts. An unattended, but awesome outcome, of our composition centric language is that it can be very easily used in a visual programming environment.</p>
+    <p class="lead"><b><i>VISION</i></b> is a visual programming environment designed for domain experts. An unintended, but awesome outcome, of our composition centric language is that it can be very easily used in a visual programming environment.</p>
     <hr class="featurette-divider">
     <h2 class="featurette-heading">Design Goals and Features</h2>
     <p class="lead">SipCoffee and Vision are designed with community, consistency, collaboration, learnability, sharing, scalability and concurrency, assured backwards compatibility, immediate feedback, regression testing, separation of mechanisms from business and multiple mental-models in mind.</p>
