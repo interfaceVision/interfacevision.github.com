@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Interface Vision - Signup
+title: Interface Vision - Get involved
 id: signup
-tagline: Signup for Interface Vision's alpha program.
+tagline: Get involved with SipCoffee and Vision.
 theme:
   name: twitter
 ---
@@ -15,8 +15,8 @@ theme:
       <img src="{{ ASSET_PATH }}/img/carousel/slide-03.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Signup Now</h1>
-          <p class="lead">Signup for our alpha program.</p>
+          <h1>Get involved Now</h1>
+          <p class="lead">Help shape the future of SipCoffee and Vision.</p>
 <!--           <p class="lead">Please also take the time to <a href="https://twitter.com/interfaceVision" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false" data-dnt="true">Follow</a> us on Twitter.</p> -->
           <p class="lead">We will not share your email with anyone.</p>
         </div> <!-- carousel-caption -->
@@ -85,7 +85,7 @@ theme:
 
         <div class="control-group">
           <div class="controls">
-            <button class="btn btn-large btn-success" type="submit" name="submit" value="Submit">Sign Up Now</button>
+            <button class="btn btn-large btn-success" type="submit" name="submit" value="Submit">Get Involved Now</button>
           </div>
         </div>
       </form>

@@ -2,96 +2,69 @@
 layout: page
 title: Interface Vision - Home
 id: home
-tagline: Decoding Software Development
-description: Interface Vision provides awesome development tools and educational products.
+tagline: Empowering Domain Experts 
+description: Interface Vision is creating awesome tools which enable domain experts to program.
 theme:
   name: twitter
 ---
 {% include JB/setup %}
 
-<!-- Carousel ================================================== -->
 <div id="myCarousel" class="carousel slide">
   <div class="carousel-inner">
     <div class="item active">
       <img src="{{ ASSET_PATH }}/img/carousel/slide-05.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Create Software for Anything Without Writing Code</h1>
-          <p class="lead">We've simplified the software creation process by building the first true cross-platform GUI based Visual Development Platform (VDP): <b><i>VISION</i></b>.</p>
-          <a class="btn btn-large btn-success" href="./signup.html">Sign up today</a>
-        </div> <!-- carousel-caption -->
-      </div> <!-- container -->
-    </div> <!-- item active -->
-  </div> <!-- carousel-inner -->
-  <!-- <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a> -->
-  <!-- <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a> -->
+          <h1>Empowering Domain Experts</h1>
+          <p class="lead">Through a simplified programming experience</p>
+          <a class="btn btn-large btn-success" href="./signup.html">Get involved</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-<!-- Marketing Messaging and Featurettes ================================================== -->
-<!-- Wrap the rest of the page in another container to center all the content. -->
-
 <div class="container marketing">
-  <div class="pagination-centered">
-    <p class="lead pull-left">Current Approach</p>
-    <p class="lead pull-right">Vision's Approach</p>    
-    <img class="img-polaroid" src="{{ ASSET_PATH }}/img/index/SideBySide04.gif">
+  
+  <div class="featurette">
+    <h2 class="featurette-heading">Our Core Technology</h2>
+    <p class="lead">We're empowering domain experts through the SipCoffee Language and <b><i>VISION</i></b>.</p>
+    <hr class="featurette-divider">
+    <h2 class="featurette-heading">The SipCoffee Language <span class="muted">simple and powerful</span></h2>
+    <p class="lead"><b><i><a href="http://blog.interfacevision.com/design/design-composition-based-language/">SipCoffee</a></i></b> is a programming language with very minimal syntax. Programming in <b><i><a href="http://blog.interfacevision.com/design/design-composition-based-language/">SipCoffee</a></i></b> is done through the composition of messages. In SipCoffee, even constructs like for loops, conditional statements, variables and scope are messages.</p>
+    <p>
+      <pre>
+        <code>
+          // Application, WithEach and WriteLine are messages
+          // do, item and text are properties
+          Application (
+            do WithEach (
+              item 1 2 4 8 16 32
+              do WriteLine ( text CurrentItem () )
+            )
+          )
+        </code>
+      </pre>
+    </p>
+    <hr class="featurette-divider">
+    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/index/iPadMockupVision524x409.png">
+    <h2 class="featurette-heading"><b><i>VISION</i> </b><span class="muted">A development environment for domain experts</span></h2>
+    <p class="lead"><b><i>VISION</i></b> is a visual programming environment designed for domain experts. An unattended, but awesome outcome, of our composition centric language is that it can be very easily used in a visual programming environment.</p>
+    <hr class="featurette-divider">
+    <h2 class="featurette-heading">Design Goals and Features</h2>
+    <p class="lead">SipCoffee and Vision are designed with community, consistency, collaboration, learnability, sharing, scalability and concurrency, assured backwards compatibility, immediate feedback, regression testing, separation of mechanisms from business and multiple mental-models in mind.</p>
+    <p class="lead"><span class="muted">Community</span> - Most important is a solution that can build a strong following.</p>
+    <p class="lead"><span class="muted">Consistency</span> - The syntax to describe variables, loops and conditions is the same.</p>
+    <p class="lead"><span class="muted">Collaboration</span> - Developers, designers, product owners, entrepreneurs and their customers can work together in a single development environment.</p>
+    <p class="lead"><span class="muted">Learnability</span> - We remove as many abstract programming concepts as possible (functions, methods, inheritance, closures, etc.) leaving a minimal set of concepts for domain experts to learn.</p>
+    <p class="lead"><span class="muted">Sharing</span> - Programs and their parts should be very easy to re-use and share.</p>
+    <p class="lead"><span class="muted">Scalability and concurrency</span> - Any program can run concurrently without little to no effort by the programmer. Scaling is done through concurrency.</p>
+    <p class="lead"><span class="muted">Assured backwards compatibility</span> - Any changes in the framework can be regression tested against all consumer created programs.</p>
+    <p class="lead"><span class="muted">Immediate feedback</span> - The results of programming are seen immediately within the environment itself: no need to 'code, compile, run and debug'.</p>
+    <p class="lead"><span class="muted">Regression testing</span> - Regression testing is an integral part of the development experience.</p>
+    <p class="lead"><span class="muted">separation of mechanisms from business</span> - Assure that programmers can't mix mechanisms and business behavior.</p>
+    <p class="lead"><span class="muted">Multiple mental-models</span> - Domain experts have different ways of seeing and understanding what it is they are trying to do. As such, the same program can be represented using different mental models.</p>
   </div>
-  <div class="huge-divider pagination-centered">
-    <br>
-    <a class="btn btn-large btn-success" href="./signup.html">Sign up today</a>
-  </div>
-
-  <hr class="featurette-divider">
-
-
-  <!-- Three columns of text below the carousel -->
-  <div class="row">
-    <div class="span4">
-      <img class="img-rounded" width="140" height="140" src="{{ ASSET_PATH }}/img/index/createAnything.png">
-      <h2>Create<br>Anything</h2>
-      <p>What you create is only limited by your imagination. From back-end B2B services to games, anything is possible within our visual development platform: <b><i>VISION</i></b>.</p>
-      <p><a class="btn btn-large btn-primary" href="./tour.html#createAnything">View details</a></p>
-    </div> <!-- span4 -->
-    <div class="span4">
-      <img class="img-rounded" width="140" height="140" src="{{ ASSET_PATH }}/img/index/timeAndMoney.png">
-      <h2>Create<br>Faster</h2>
-      <p><b><i>VISION</i></b> cuts the workload in half. Simply create your software by assembling pre-made parts or compose new pieces you can reuse indefinitely.</p>
-      <p><a class="btn btn-large btn-primary" href="./tour.html#timeAndMoney">View details</a></p>
-    </div><!-- span4 -->
-    <div class="span4">
-      <img class="img-circle" width="140" height="140" src="{{ ASSET_PATH }}/img/index/consistent3.png">
-      <h2>Create<br>Together</h2>
-      <p>Developers, designers, product owners, entrepreneurs and customers can continually collaborate with each other, within <b><i>VISION</i></b>, building software in real time.</p>
-      <p><a class="btn btn-large btn-primary" href="./tour.html#consistent">View details</a></p>
-    </div> <!-- span4 -->
-  </div> <!-- row -->
-
-  <hr class="featurette-divider">
-  <div class="featurette">
-    <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/index/iPadMockupParts524x410.png">
-    <h2 class="featurette-heading">Collaboration <span class="muted">At Every Step</span></h2>
-    <p class="lead"><b><i>VISION</i></b> is the only development tool that allows developers, designers, product owners, entrepreneurs and their customers to continually collaborate with each other at every step within the development process.</p>
-    <p class="lead">Collaboration takes place within <b><i>VISION</i></b> where everyone can work together seamlessly. This seamless collaboration is possible because the VISION platform is always running live. There is no more waiting on others to compile, debug, fix and rebuild because there is no code.</p>
-  </div> <!-- featurette -->
-  <hr class="featurette-divider">
-  <div class="featurette">
-    <img class="featurette-image pull-left" src="{{ ASSET_PATH }}/img/index/iPadMockupVision524x409.png">
-    <h2 class="featurette-heading">Program Using <span class="muted">Parts and Templates</span></h2>
-    <p class="lead">No more code.  <b><i>VISION</i></b> users drag parts and templates from a toolbox, arrange the parts on a canvas, and connect the parts to direct the flow of activity through assembly, building their program.</p>
-    <p class="lead">We do the heavy lifting allowing our users to focus on their products. Users are able to see their changes live as <b><i>VISION</i></b> is always running what is being built. This means a UX designer gets immediate feedback and a product owner sees their product features implemented in real time.</p>
-  </div> <!-- featurette -->
-  <hr class="featurette-divider">
-  <div class="featurette">
-    <img class="featurette-image pull-right img-rounded" src="{{ ASSET_PATH }}/img/index/education.png">
-    <h2 class="featurette-heading">Education <span class="muted">Made Easier</span></h2>
-    <p class="lead"><b><i>VISION</i></b> is very easy to learn. Our GUI-based Visual Development Platform enables users to learn how to think and work like great developers, allowing them to build any software they can imagine.</p>
-    <p class="lead">Interface Vision is dedicated to making software education available to everyone: especially young adults. As such, we have created <a href="http://www.innovisioneducation.com" target="_blank">The Innovision Education Group</a>.</p>
-  </div> <!-- featurette -->
-
-  <div class="huge-divider pagination-centered">
-    <br>
-    <a class="btn btn-large btn-success" href="./signup.html">Sign up today</a>
-  </div>  
 
   <hr class="featurette-divider">
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interface Vision - Join Up Now. Want to Know More?
+title: Interface Vision - Get involved Now. Want to Know More?
 id: careers
 tagline: Interface Vision is always looking for the best of the best. Join Up Now. Service guarantees citizenship.
 theme:
@@ -30,9 +30,8 @@ theme:
   <div class="featurette" id="Proposals">
     <img class="featurette-image pull-right" src="{{ ASSET_PATH }}/img/misc/career_01.png">
     <h2 class="featurette-heading">We Have The Technology</h2>
-    <h2 class="featurette-heading muted">Do You Have The Skills</h2>
+    <h2 class="featurette-heading muted">You Have The Skills</h2>
     <p class="lead">If you are a developer, you must be wondering how we do it. What magic goes on behind the scenes that makes <b><i>VISION</i></b> possible.</p>
-    <p class="lead">As a UX designer, you've got to be interested in working on the first Visual Object Programming Language in <i>known</i> existence.</p>
     <p class="lead">Please contact <a href="mailto:chrishylton@interfacevision.com">Chris Hylton</a> to learn more.</p>
      
   </div> <!-- featurette -->

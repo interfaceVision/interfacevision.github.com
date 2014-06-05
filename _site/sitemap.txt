@@ -7,6 +7,7 @@ http://interfacevision.github.io/careers.html
 http://interfacevision.github.io/categories.html
 http://interfacevision.github.io/contact.html
 http://interfacevision.github.io/index.html
+http://interfacevision.github.io/indexOlder.html
 http://interfacevision.github.io/pages.html
 http://interfacevision.github.io/rss.xml
 http://interfacevision.github.io/signup.html
