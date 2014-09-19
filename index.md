@@ -27,19 +27,17 @@ theme:
 <div class="container marketing">
   
   <div class="featurette">
+
+    <h2 class="featurette-heading">Shutting Down</h2>
+    
+    <p class="lead">It is with a sad heart that we've decided to not pursue monetization of Interface Vision's core technologies. We've done a lot of amazing things, but there just isn't a market for visual programming environments: yet. It will happen: it's inevitable. But just not now.</p>
+    
+    <p class="lead">We are leaving this web page intact for people interested in seeing what we were working on.</p>
+
     <h2 class="featurette-heading">Our Core Technology</h2>
     <p class="lead">We're empowering domain experts through the SipCoffee Language and <b><i>VISION</i></b>.</p>
     <hr class="featurette-divider">
     
-    <h2 class="featurette-heading">Shutting Down</h2>
-    
-    <p>
-    It is with a sad heart that we've decided to not pursue monetization of Interface Vision's core technologies. We've done a lot of amazing things, but there just isn't a market for visual programming environments: yet. It will happen: it's inevitable. But just not now.
-    </p>
-    
-    <p>
-    We are leaving this web page intact for people interested in seeing what we were working on.
-    </p>
 
     
     <h2 class="featurette-heading">The SipCoffee Language <span class="muted">simple and powerful</span></h2>
