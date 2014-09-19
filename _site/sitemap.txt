@@ -15,5 +15,3 @@ http://interfacevision.github.io/signupthankyou.html
 http://interfacevision.github.io/sitemap.txt
 http://interfacevision.github.io/tags.html
 http://interfacevision.github.io/tour.html
-
-http://interfacevision.github.io/lessons/2011/12/29/jekyll-introduction

@@ -30,6 +30,18 @@ theme:
     <h2 class="featurette-heading">Our Core Technology</h2>
     <p class="lead">We're empowering domain experts through the SipCoffee Language and <b><i>VISION</i></b>.</p>
     <hr class="featurette-divider">
+    
+    <h2 class="featurette-heading">Shutting Down</h2>
+    
+    <p>
+    It is with a sad heart that we've decided to not pursue monetization of Interface Vision's core technologies. We've done a lot of amazing things, but there just isn't a market for visual programming environments: yet. It will happen: it's inevitable. But just not now.
+    </p>
+    
+    <p>
+    We are leaving this web page intact for people interested in seeing what we were working on.
+    </p>
+
+    
     <h2 class="featurette-heading">The SipCoffee Language <span class="muted">simple and powerful</span></h2>
     <p class="lead"><b><i><a href="http://blog.interfacevision.com/design/design-composition-based-language/">SipCoffee</a></i></b> is a programming language with very minimal syntax. Programming in <b><i><a href="http://blog.interfacevision.com/design/design-composition-based-language/">SipCoffee</a></i></b> is done through the composition of messages. In SipCoffee, even constructs like for loops, conditional statements, variables and scope are messages.</p>
     <p>
